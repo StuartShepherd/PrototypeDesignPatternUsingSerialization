@@ -7,7 +7,7 @@ namespace PrototypeUsingSerialization
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prototype using serialization example");
+            Console.WriteLine("Prototype design pattern using serialization example");
             Console.WriteLine("Prototype is a creational design pattern that allows cloning objects, even complex ones, without coupling to their specific classes.");
             Console.WriteLine();
 
